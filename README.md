@@ -1,7 +1,13 @@
-- 👋  Hy, I’m Sahil
-- 👀  I’m a Full Stack Developer, I develop interactive cross-platform Mobile Apps and scalable, high performance backend systems.
-- 🌱  I’m currently learning GraphQL, AWS, React Native and iOS.
-- 💞️  I’m looking to collaborate on projects with abstract ideas and make apps more fun and interactive.
+I am a Full Stack Developer specialized in Mobile App Development with 5+ years of experience, I have worked with a wide range of individuals (National + International) and established companies. I have developed apps from scratch and maintained and enhanced products. I have collaborated on Apps with a huge amount of users. I have assembled CI/CD Pipelines for making deployments, releases, and updates.
+
+- 15+ projects undertaken
+- React Native, SwiftUI, Flutter, Ionic, React
+- Multiple languages app - English, Hindi, Spanish and more (LTR/RTL)
+- Push Notifications, Deeplinking.
+- PostgreSQL, MySQL, MongoDB, Firebase, SQLite
+- MVC, MVVM, MVP
+- JIRA, Github, Gitlab, Bitbucket, Trello
+- Payment Gateway Integrations: Stripe, PayU, Paytm SDK, etc
 - 📫  You can reach me at [LinkedIn](https://www.linkedin.com/in/itssaahiil/) or drop me an [Email](mailto:saahiil.dev@gmail.com)
 
 <!---
